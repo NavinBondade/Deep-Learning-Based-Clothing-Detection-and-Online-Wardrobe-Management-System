@@ -14,6 +14,11 @@ Date: 14 July 2021 <br>
 Time Spent: 90 mins <br>
 Work Spent: I take a look at Tensorflow object detection zoo and also object detection architectures available at Pytorch. As this is a business problem, I narrow my focus to architectures that balance both the terms, i.e., time and accuracy. I created my Github repo for this assignment. I presented by presentation. <br>
 
-Date: 14 July 2021 <br>
+Date: 15 July 2021 <br>
 Time Spent: 30 min <br>
-Work Spent:
+Work Spent: Work with YoloV4 and YoloV5, go through there comparison and how to used for custom dataset.<br>
+
+Date: 16 July 2021 <br>
+Time Spent: 0 min <br>
+Work Spent: Sick with feaver and body pain cause of Coronavirus vaccine<br>
+
