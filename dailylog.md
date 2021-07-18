@@ -22,3 +22,10 @@ Date: 16 July 2021 <br>
 Time Spent: 0 min <br>
 Work Spent: Sick with feaver and body pain cause of Coronavirus vaccine<br>
 
+Date: 17 July 2021 <br>
+Time Spent: 0 min <br>
+Work Spent: Sick with feaver and body pain cause of Coronavirus vaccine<br>
+
+Date: 18 July 2021 <br>
+Time Spent: 70 min <br>
+Work Spent: I work on preparation of dataset for YoloV5 as per darknet format. Also spend time on investigating dataset for sesame network.<br>
