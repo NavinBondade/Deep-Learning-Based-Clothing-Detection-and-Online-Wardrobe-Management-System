@@ -29,3 +29,7 @@ Work Spent: Sick with feaver and body pain cause of Coronavirus vaccine<br>
 Date: 18 July 2021 <br>
 Time Spent: 120 min <br>
 Work Spent: Label and draw bouding box to create dataset for yolov5. Also spend time on investigating dataset for sesame network. Find difficulties and error in dataset. <br>
+
+Date: 19 July 2021 <br>
+Time Spent: 5 hrs <br>
+Work Spent: Recreated the dataset again, draw boudning boxes over 650 plus images with YoloLabel tool, along with that preprocess the data and organize it for YoloV5<br>
