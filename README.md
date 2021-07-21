@@ -12,7 +12,7 @@
   <li>skimage</li>
 </ul>
 <h2>Dataset</h2>
-<p>For clothing item identification and localization, I have created a custom dataset by myself. The clothing item images have been downloaded from Kaggle's InShopeClothes dataset and it gets annotated with a bounding box with the open-source tool called YoloLabel. A total of 656 images with their respective label in the dataset, out of which 586 images with their label are in the training section and the remaining 66 are in the validation section. <br>The dataset can be downloaded from here: https://drive.google.com/drive/folders/1t_qSYVZjEFeZXBrqLUxXSQseGOCY1YvY?usp=sharing
+<p>For clothing item identification and localization, I have created a custom dataset by myself. The clothing item images have been downloaded from Kaggle's InShopeClothes dataset and it gets annotated with a bounding box with the open-source tool called YoloLabel. A total of 656 images with their respective label in the dataset, out of which 586 images with their label are in the training section and the remaining 66 are in the validation section. The dataset can be downloaded from here: https://bit.ly/3eEt90Y
 </p>
 
 
