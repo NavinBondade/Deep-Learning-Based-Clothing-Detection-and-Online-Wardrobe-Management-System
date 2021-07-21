@@ -27,8 +27,8 @@ Time Spent: 0 min <br>
 Work Spent: Sick with feaver and body pain cause of Coronavirus vaccine<br>
 
 Date: 18 July 2021 <br>
-Time Spent: 120 min <br>
-Work Spent: Label and draw bouding box to create dataset for yolov5. Also spend time on investigating dataset for sesame network. Find difficulties and error in dataset. <br>
+Time Spent: 180 min <br>
+Work Spent: Label and draw bouding box to create dataset for yolov5. Also spend time on investigating dataset for sesame network. Find difficulties and error in dataset. Again tried to build the  siamese network but got stuck into the errors<br>
 
 
 
