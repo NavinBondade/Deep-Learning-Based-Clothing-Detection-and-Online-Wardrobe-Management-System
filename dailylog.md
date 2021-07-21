@@ -30,6 +30,8 @@ Date: 18 July 2021 <br>
 Time Spent: 120 min <br>
 Work Spent: Label and draw bouding box to create dataset for yolov5. Also spend time on investigating dataset for sesame network. Find difficulties and error in dataset. <br>
 
+
+
 Date: 19 July 2021 <br>
 Time Spent: 5 hrs <br>
 Work Spent: Recreated the dataset again, draw boudning boxes over 650 plus images with YoloLabel tool, along with that preprocess the data and organize it for YoloV5<br>
@@ -39,3 +41,8 @@ Date: 20 July 2021 <br>
 Time Spent: 7 hrs<br>
 Work Spent: Its 1:00am of 21 July, morning, and I finally finished with the project. I search various datasets for seimes network. Spend some time understanding and reading how to create seimes network. Spent good number of hours in implementing seimes network but does not find any success there for finally get settle on structural similarity index measure. Than after I spent most of time writing code to perform object detection with yolov5, solving its error and than writing the logical code that will function the wardrobe and again solving the errors. <br>
 
+
+
+Date: 21 July 2021 <br>
+Time Spent: 5 hrs <br>
+Work Spent: Work on Github readme.md and on the presentation of the project.<br>
