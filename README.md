@@ -19,3 +19,9 @@
 <p>For object detection, I have used here YoloV5 mainly for its smaller size, faster computation, and state-of-the-art accuracy. The model has to get trained over 586 images for 50 epochs. The model takes 21 minutes that is 41 seconds per epoch to complete its task. The model was able to perform object detection with the following accuracy.</p>
 <img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/result.png" >
 
+<h2>Object Detection Result On Validation Dataset</h2>
+<h3>Input<h3>
+<img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/validation%20dataset.png" >
+<h3>Output<h3>
+<img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/validation%20dataset%20object%20detection.png">
+
