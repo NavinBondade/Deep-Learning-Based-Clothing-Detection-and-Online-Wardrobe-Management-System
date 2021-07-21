@@ -20,8 +20,8 @@
 <img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/result.png" >
 
 <h2>Object Detection Result On Validation Dataset</h2>
-<h3>Input<h3>
+<h3>Input:<h3>
 <img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/validation%20dataset.png" >
-<h3>Output<h3>
+<h3>Output:<h3>
 <img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/validation%20dataset%20object%20detection.png">
 
