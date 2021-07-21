@@ -27,7 +27,7 @@
   
 <h2>Image Similarity</h2>
 <p>For making the system understand whether the images are similar or dissimilar, here I have used Structural Similarity Index (SSIM) for scoring the similarity between the two images. The SSIM attempts to model the perceived change in the structural information of the image, whereas MSE is estimating the perceived errors. </p>  
-<img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/SSIM.png" width="400" height="150">
+<img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/SSIM.png" width="800" height="150">
   
   
   
