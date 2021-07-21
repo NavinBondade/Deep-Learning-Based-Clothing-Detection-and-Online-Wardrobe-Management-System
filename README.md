@@ -50,5 +50,12 @@
 <img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/Updated%20Wardrobe.png">
 <p>   
   
+<h2>Conclusion<h2>  
+<p>Here in this project, I have created a system that uses YoloV5 for identifying the clothing item and put them into the online wardrobe if that clothing item is not present.</p>  
+<h2>References<h2>  
+https://www.kaggle.com/rvnrvn1/inshopclothes
+https://github.com/developer0hye/Yolo_Label
+https://github.com/ultralytics/yolov5
+https://medium.com/srm-mic/all-about-structural-similarity-index-ssim-theory-code-in-pytorch-6551b455541e  
   
   
