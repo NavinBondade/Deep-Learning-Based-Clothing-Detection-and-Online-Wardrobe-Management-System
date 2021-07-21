@@ -33,19 +33,19 @@
  
 <h2>Online Wardrobe Management</h2>
 <p>For the management of online wardrobe and putting in the newly detected clothing item, I have written a logical code that compares the detected clothing item to preexisted clothing item within the wardrobe and generates an SSIM score, if the score is above a certain threshold the item will get added to the wardrobe, else not. </p>
-<h3>Current Wardrobe<h3>  
+<h3>Current Wardrobe:<h3>  
 <p align="center">  
 <img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/current%20wardrobe.png">
 <p>  
-<h3>User Clothing Item<h3>  
+<h3>User Clothing Item:<h3>  
 <p align="center">  
 <img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/Users%20New%20Clothing.png" width="450" height="450">
 <p>
-<h3>User Clothing Item Detected<h3>  
+<h3>User Clothing Item Detected:<h3>  
 <p align="center">  
 <img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/Users%20Clothing%20Detected.png" width="450" height="450">
 <p>     
-<h3>Updated Wardrobe<h3>  
+<h3>Updated Wardrobe:<h3>  
 <p align="center">  
 <img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/Updated%20Wardrobe.png">
 <p>   
