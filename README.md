@@ -39,7 +39,7 @@
 <p>  
 <h3>User Clothing Item<h3>  
 <p align="center">  
-<img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/Users%20New%20Clothing.png">
+<img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/Users%20New%20Clothing.png" width="100" height="500">
 <p>
 <h3>User Clothing Item Detected<h3>  
 <p align="center">  
