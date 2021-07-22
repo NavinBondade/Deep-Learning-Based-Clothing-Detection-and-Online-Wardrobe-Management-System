@@ -21,9 +21,9 @@
 
 <h2>Object Detection Result On Validation Dataset</h2>
 <h3>Input:<h3>
-<img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/validation%20dataset.png" >
+<img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/Clothing%20%20Validation%20Dataset.png.png" >
 <h3>Output:<h3>
-<img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/validation%20dataset%20object%20detection.png">
+<img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/Clothing%20Validation%20Dataset%20Result.png">
   
 <h2>Image Similarity</h2>
 <p>For making the system understand whether the images are similar or dissimilar, here I have used Structural Similarity Index (SSIM) for scoring the similarity between the two images. The SSIM attempts to model the perceived change in the structural information of the image and based on that generates a score. </p>  
