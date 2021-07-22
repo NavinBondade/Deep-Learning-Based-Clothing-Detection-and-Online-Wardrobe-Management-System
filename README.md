@@ -3,6 +3,7 @@
 <h2>Libraries Used</h2>
 <ul>
   <li>Pytorch</li>
+  <li>YoloV5</li>
   <li>Numpy</li>
   <li>Pandas </li>
   <li>Matplotlib</li>
