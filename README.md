@@ -21,7 +21,7 @@
 
 <h2>Object Detection Result On Validation Dataset</h2>
 <h3>Input:<h3>
-<img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/Clothing%20%20Validation%20Dataset.png.png" >
+<img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/Clothing%20%20Validation%20Dataset.png" >
 <h3>Output:<h3>
 <img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/Clothing%20Validation%20Dataset%20Result.png">
   
