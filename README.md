@@ -47,7 +47,7 @@
 <p>     
 <h3>Updated Wardrobe:</h3>  
 <p align="center">  
-<img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/Updated%20Wardrobe.png">
+<img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/Current%20Wardrobe1.png">
 <p>   
   
 <h2>Conclusion</h2>  
