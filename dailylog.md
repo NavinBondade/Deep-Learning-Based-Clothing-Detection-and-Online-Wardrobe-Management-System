@@ -42,7 +42,22 @@ Time Spent: 7 hrs<br>
 Work Spent: Its 1:00am of 21 July, morning, and I finally finished with the project. I search various datasets for seimes network. Spend some time understanding and reading how to create seimes network. Spent good number of hours in implementing seimes network but does not find any success there for finally get settle on structural similarity index measure. Than after I spent most of time writing code to perform object detection with yolov5, solving its error and than writing the logical code that will function the wardrobe and again solving the errors. <br>
 
 
-
 Date: 21 July 2021 <br>
 Time Spent: 5 hrs <br>
 Work Spent: Work on Github readme.md and on the presentation of the project.<br>
+
+Date: 22 July 2021 <br>
+Time Spent: 1:30 hrs <br>
+Work Spent: Give presentation and discuss code.<br>
+
+Date: 23 July 2021 <br>
+Time Spent: 0 hrs <br>
+Work Spent: Does not work on report<br>
+
+Date: 24 July 2021 <br>
+Time Spent: 1 hrs <br>
+Work Spent: Work on report<br>
+
+Date: 25 July 2021 <br>
+Time Spent: 1 hrs <br>
+Work Spent: Work on report<br>
