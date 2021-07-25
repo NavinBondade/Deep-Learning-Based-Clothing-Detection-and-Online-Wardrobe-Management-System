@@ -55,9 +55,9 @@ Time Spent: 0 hrs <br>
 Work Spent: Does not work on report<br>
 
 Date: 24 July 2021 <br>
-Time Spent: 1 hrs <br>
+Time Spent: 1:30 hrs <br>
 Work Spent: Work on report<br>
 
 Date: 25 July 2021 <br>
-Time Spent: 1 hrs <br>
+Time Spent: 2 hrs <br>
 Work Spent: Work on report<br>
