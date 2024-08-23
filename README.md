@@ -1,5 +1,5 @@
 # Deep Learning-Based Clothing Detection and Online Wardrobe Management System
-<p>In this project, I have created a deep-learning based system that can understand which clothing items is wear by the users and, based on that it makes the decision whether the clothing item is already present in the online wardrobe or not and if not, it will automatically get added into the wardrobe by the system.</p>
+<p>This project introduces a deep learning-based system engineered to automatically identify and catalog clothing items worn by users for seamless online wardrobe management. A custom dataset comprising 656 annotated images of various clothing categories was developed specifically for this application. The YOLOv5 model was trained on this dataset to achieve high accuracy in object detection, enabling the system to recognize and localize clothing items within images. Once identified, the system checks whether the detected items already exist in the user's online wardrobe. If an item is not found, it is automatically added, streamlining the wardrobe management process. This system offers an efficient solution for maintaining an organized and up-to-date digital wardrobe.</p>
 <h2>Libraries Used</h2>
 <ul>
   <li>Pytorch</li>
