@@ -15,11 +15,12 @@ This project introduces a deep learning-based system engineered to automatically
   <li>skimage</li>
 </ul>
 <h2>Dataset</h2>
-<p>For clothing item identification and localization, I have created a custom dataset by myself. The clothing item images have been downloaded from Kaggle's InShopeClothes dataset and it gets annotated with a bounding box with the open-source tool called YoloLabel. A total of 656 images with their respective label in the dataset, out of which 586 images with their label are in the training section and the remaining 66 are in the validation section. The dataset can be downloaded from here: https://bit.ly/3eEt90Y </p>
+<p> For the identification and localization of clothing items, I have developed a custom dataset. The images used were sourced from Kaggle's InShop Clothes dataset, and each image has been annotated with bounding boxes using the open-source tool YoloLabel. The dataset consists of 656 images along with their corresponding labels. Of these, 586 images are allocated to the training set, while the remaining 66 images are designated for validation. The dataset is available for download at the following link: https://bit.ly/3eEt90Y </p>
 <img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/Clothing%20Dataset.png" >
 
 <h2>Object Detection</h2>
-<p>For object detection, I have used here YoloV5 mainly for its smaller size, faster computation, and state-of-the-art accuracy. The model has to get trained over 586 images for 50 epochs. The model took 21 minutes to train completely, which means it takes  41 seconds per epoch to complete its task. The model was able to perform object detection with the following accuracy.</p>
+<p>For the object detection task, I utilized YOLOv5, chosen primarily for its compact size, rapid computation, and state-of-the-art accuracy. The model was trained on a dataset of 586 images over the course of 50 epochs. The entire training process was completed in 21 minutes, equating to an average of 41 seconds per epoch. This efficiency highlights YOLOv5's capability to balance speed and accuracy effectively. Upon completion, the model demonstrated impressive object detection performance, achieving high accuracy levels, making it well-suited for practical applications where both speed and precision are crucial.
+</p>
 <img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/result.png" >
 
 <h2>Object Detection Result On Validation Dataset</h2>
@@ -35,7 +36,7 @@ This project introduces a deep learning-based system engineered to automatically
 <p>  
  
 <h2>Online Wardrobe Management</h2>
-<p>For the management of online wardrobe and putting in the newly detected clothing item, I have written a logical code that compares the detected clothing item to preexisted clothing item within the wardrobe and generates an SSIM score, if the score is above a certain threshold the item will get added to the wardrobe, else not. </p>
+<p>To efficiently manage an online wardrobe and incorporate newly detected clothing items, I developed a logical algorithm that compares each detected item against existing items in the wardrobe. This comparison is based on the Structural Similarity Index Measure (SSIM) score, which evaluates the similarity between images. If the SSIM score exceeds a predefined threshold, indicating that the new item is sufficiently distinct from the existing ones, it is added to the wardrobe. Otherwise, the item is not included, ensuring that the wardrobe remains organized and free of duplicate or similar items. This method enhances the wardrobe's functionality by maintaining a diverse and unique collection of clothing items.</p>
 <h3>Current Wardrobe:</h3>  
 <p align="center">  
 <img src="https://github.com/NavinBondade/Navin_Bondade_ML_Assignment_July2021/blob/main/Images/Current%20Wardrobe.png">
@@ -54,7 +55,8 @@ This project introduces a deep learning-based system engineered to automatically
 <p>   
   
 <h2>Conclusion</h2>  
-<p>Here in this project, I have created a system that uses YoloV5 for identifying the clothing item and put them into the online wardrobe if that clothing item is not present.</p>  
+<p>In this project, I developed a sophisticated system that leverages YOLOv5 for the identification of clothing items, seamlessly integrating them into an online wardrobe. The system efficiently detects and recognizes clothing items using YOLOv5’s advanced object detection capabilities. It then cross-references the detected item with existing items in the wardrobe to ensure uniqueness. If the item is not already present, it is automatically added to the wardrobe, maintaining an organized and comprehensive collection. This approach not only optimizes wardrobe management but also ensures that only new and distinct items are included, enhancing the overall user experience.
+</p>  
 <h2>References</h2>  
 https://www.kaggle.com/rvnrvn1/inshopclothes <br>
 https://github.com/developer0hye/Yolo_Label <br>
