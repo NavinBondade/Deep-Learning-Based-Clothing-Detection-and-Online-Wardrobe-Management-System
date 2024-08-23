@@ -1,6 +1,6 @@
 # Deep Learning-Based Clothing Detection and Online Wardrobe Management System
 <p> 
-<img src="https://zerrin.com/wp-content/uploads/2021/10/online-wardrobe-closet-organizing-app-zerrin.png" width="1000" height="550">  
+<img src="https://zerrin.com/wp-content/uploads/2021/10/online-wardrobe-closet-organizing-app-zerrin.png" width="1000" height="600">  
 This project introduces a deep learning-based system engineered to automatically identify and catalog clothing items worn by users for seamless online wardrobe management. A custom dataset comprising 656 annotated images of various clothing categories was developed specifically for this application. The YOLOv5 model was trained on this dataset to achieve high accuracy in object detection, enabling the system to recognize and localize clothing items within images. Once identified, the system checks whether the detected items already exist in the user's online wardrobe. If an item is not found, it is automatically added, streamlining the wardrobe management process. This system offers an efficient solution for maintaining an organized and up-to-date digital wardrobe.</p>
 <h2>Libraries Used</h2>
 <ul>
